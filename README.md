@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhsanUET123
-- 👀 I’m interested in Software & Hardware 
+- 👀 I’m interested in developing games and Cybersecurity.
 - 🌱 I’m currently learning Python,C++
 - 💞️ I’m looking to collaborate with Bill gates daughters 
   
