@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahsan 10403
 - 👀 I’m interested in developing games and Cybersecurity.
 - 🌱 I’m currently learning Python,C++,pentesting.
-- 💞️ I’m looking to collaborate with Bill gates daughters 
+- 💞️ I’m looking to collaborate with Someone.
   
 - ⚡ Fun fact: The Earth is not the only planet to live.
 <!---
