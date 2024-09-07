@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Ahsan
 #### I am Computer engineering student.
-I am currently in struggle foe knowing more about computing and IT
+I am currently in struggle for knowing more about computing and IT
 
 Skills: C++ / Python / JS / HTML / CSS/SQL
 
-- 🔭 I’m currently working on Cybersecurity  
+- 🔭 I’m currently working on Cybersecurity and data science.
 - 📫 How to reach me: ahsan10403@gmail.com 
 
 
