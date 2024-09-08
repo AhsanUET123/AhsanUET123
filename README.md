@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahsan
 #### I am Computer engineering student.
-https://x.com/muhammad_a46378/header_photo
+
 I am currently in struggle for knowing more about computing and IT
 
 Skills: C++ / Python / JS / HTML / CSS/SQL
