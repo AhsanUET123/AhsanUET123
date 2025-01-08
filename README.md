@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Computer engineering**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate with Bill gate's Daughters.
 
-- 🤝 I’m looking for help with **anyone**
+- 🤝 I’m looking for nothing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
